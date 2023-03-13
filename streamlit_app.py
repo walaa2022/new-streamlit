@@ -9,7 +9,7 @@ openai.api_key = "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"
 # front end elements of the web page 
 html_temp = """ 
     <div style ="background-color:skyblue;padding:13px"> 
-    <h1 style ="color:black;text-align:center;">Suicide Prediction App</h1> 
+    <h1 style ="color:black;text-align:center;">Vi-Chat</h1> 
     </div> 
     """
 
